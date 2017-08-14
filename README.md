@@ -1,2 +1,2 @@
 # luxnet
-stage &amp; building lighting contol network
+stage &amp; building lighting control network
